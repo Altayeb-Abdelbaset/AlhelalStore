@@ -218,7 +218,14 @@ h2 {
 .overlay a:hover {
   color: #e45441;
 }
-
+.nav-link
+{
+  font-size: medium;
+}
+.navbar-brand
+{
+  font-size: larger;
+}
 .overlay-content {
   position: relative;
   top: 30%;
@@ -233,7 +240,7 @@ h2 {
 }
 .colored-div {
   background-color: #3a3f58;
-  padding: 20px;
+  padding: 10px;
   margin-bottom: 20px;
 }
 .menu_width.overlay a {
