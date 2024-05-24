@@ -231,7 +231,11 @@ h2 {
 .menu_width {
   width: 100%;
 }
-
+.colored-div {
+  background-color: #3a3f58;
+  padding: 20px;
+  margin-bottom: 20px;
+}
 .menu_width.overlay a {
   opacity: 1;
 }
